@@ -1,4 +1,5 @@
 product:  
   name: abc
   version:  12
-  code: 12345
+  code: 1234
+filename: 666
